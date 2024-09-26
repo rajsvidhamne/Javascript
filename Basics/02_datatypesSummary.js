@@ -42,5 +42,6 @@ console.log(mydemo);
 
 let user ={
     email: "demo@gmail.com",
-    upi: 
+    upi: 23456787
 }
+console.log(user);
