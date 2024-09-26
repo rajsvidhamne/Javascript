@@ -17,7 +17,6 @@ console.log(id === anotherId);
 //const bigNumber = 677564758687897989
 
 
-
 //non-primitive (reference)
 //array,objects,function
 
@@ -40,3 +39,8 @@ let myname = "john"
 let mydemo = myname
 
 console.log(mydemo);
+
+let user ={
+    email: "demo@gmail.com",
+    upi: 
+}
