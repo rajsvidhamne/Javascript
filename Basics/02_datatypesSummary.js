@@ -32,3 +32,11 @@ const myFuncation = function(){
 }
 
 console.log(typeof anotherId);
+
+//stack (primitive) copy milta hai, HEap (non-primitive) jo bhi change karenge vo origional value mai change hoga
+
+let myname = "john"
+
+let mydemo = myname
+
+console.log(mydemo);
